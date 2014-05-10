@@ -1,0 +1,11 @@
+Flask==0.10.1
+Flask-SQLAlchemy==1.0
+Jinja2==2.7.2
+MarkupSafe==0.23
+MySQL-python==1.2.5
+SQLAlchemy==0.9.4
+Werkzeug==0.9.4
+ipdb==0.8
+ipython==2.0.0
+itsdangerous==0.24
+wsgiref==0.1.2
